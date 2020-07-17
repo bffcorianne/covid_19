@@ -1,0 +1,18 @@
+The purpose of this project is that I wanted to see a graph that had both new deaths and new cases. Many of the sources show them in tandem.  
+
+Examples:  
+
+John's Hopkins Coronavirus Resource Center dashboard.  
+
+[https://coronavirus.jhu.edu/testing/tracker/overview] 
+
+There's a weekly cyclical trend new stats (cases, deaths, tests).   
+
+
+
+Are the peaks and dips on the same days?  
+
+
+
+
+Jfc I cannot believe this is real life right now. How is this real. 
